@@ -7,3 +7,20 @@ li{
 .links{
     color:LightSeaGreen;
 }
+
+.table{
+    width: 100%;
+    font-family: Helvetica;
+}
+.header{
+    background-color: OliveDrab;
+    olor: white;
+    text-align: center;
+}
+.odd-row{
+    background-color:SandyBrown;
+}
+.even-row{
+    background-color:LightCoral;
+}
+            
