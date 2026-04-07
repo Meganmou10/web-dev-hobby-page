@@ -1,26 +1,40 @@
 body{
     font-family: Arial;
 }
+h1{
+    font-family: Georgia;
+    font-weight: bold;
+}
 li{
     font-size: 18px;
 }
-.links{
-    color:LightSeaGreen;
-}
 
-.table{
-    width: 100%;
-    font-family: Helvetica;
+p{
+    font-size:14px;
 }
-.header{
-    background-color: OliveDrab;
-    olor: white;
-    text-align: center;
+body{
+    background-color:#A7C7E750;
+    
 }
-.odd-row{
-    background-color:SandyBrown;
+h4{
+    font-weight:normal;
+    
 }
-.even-row{
-    background-color:LightCoral;
+.section1{
+    background-color: #E6E6FA;
 }
-            
+.section2{
+    background-color: #E5D3EE80;
+}
+.section3{
+    background-color: #EED3EA80;
+}
+.section4{
+    background-color: #EFD2D980;
+}
+.images{
+    width:300px; height:400px;
+}
+.video{
+    width:300px; height:500px;
+}
